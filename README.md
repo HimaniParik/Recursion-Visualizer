@@ -31,3 +31,15 @@ Interactive recursion tree visualizer built using HTML, CSS, JavaScript, and SVG
 ## How to Run
 1. Clone the repository
 2. Open `index.html` in your browser
+
+## Screenshots
+
+### Light Mode
+![Light Mode](assets/light-mode.png)
+
+### Dark Mode
+![Dark Mode](assets/dark-mode.png)
+
+### Traversal Animation
+![Traversal](assets/traversal.png)
+
