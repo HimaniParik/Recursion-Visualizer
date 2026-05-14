@@ -2,6 +2,9 @@
 
 Interactive recursion tree visualizer built using HTML, CSS, JavaScript, and SVG animations.
 
+## Live Demo
+https://recursion-visualizer-one.vercel.app/
+
 ## Features
 - Fibonacci recursion visualization
 - Animated traversal arrows
